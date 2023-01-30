@@ -1,0 +1,7 @@
+
+default:
+  phyloseq_file: "/home/abthiaw/UCA/Abt_docs/abtStage_M2/data/sols_physeq.rds"
+production:
+  phyloseq_file: "/home/abthiaw/UCA/Abt_docs/abtStage_M2/data/sols_physeq.rds"
+  RData_file: "/home/abthiaw/UCA/Abt_docs/abtStage_M2/data/2022_05_Fonctiomic_taxonomicData.RData"
+  
