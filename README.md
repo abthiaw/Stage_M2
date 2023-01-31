@@ -27,7 +27,7 @@ Etape 1:
  
  Etape 2: 
  
-        cd Stage_M2
+        setwd "/PATH_to_Folder/Stage_M2"
 
 - les Données analyses sont des données rarefiées et agglomerées au niveau du Genre au prealable puis stockées au format RData.
 
