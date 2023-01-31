@@ -30,19 +30,19 @@ git clone git@github.com:abthiaw/Stage_M2.git
 
  - Execution du script ***2022_05-Fonctiomic_script_taxonomique_analysis.R*** donne les resultats suivants
  
-     ==> Courbe d'accumulation evaluant l'effort d'echantillonnage
+     => Courbe d'accumulation evaluant l'effort d'echantillonnage
      
-     ==> Analyse de l'abondances relative des communautes microbiennes
+     => Analyse de l'abondances relative des communautes microbiennes
      
      ==> Etudes de la diversites taxonomiques microbiennes
      
          - Bases sur les nombres de Hill
          
-     ==> Etudes de la structuration des communautes miicrobiennes
+     => Etudes de la structuration des communautes miicrobiennes
      
          - Analyse d'ordination PCoA et NMDS
          
-     ==> Etude de la difference d'abondance microbiennes selon les conditions d'etudes
+     => Etude de la difference d'abondance microbiennes selon les conditions d'etudes
   
  ***2022_05-Fonctiomic_script_taxonomique_analysis.rmd*** est la version Rmarkdown qui donne en output un rapport de toutes les analyses au format pdf
      
