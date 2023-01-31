@@ -36,8 +36,8 @@ setwd(DOSSIER)
 
 # I. Chargement et mise en forme des données
 
-metadata <- read_rds("/home/abthiaw/UCA/Abt_docs/abtStage_M2/data/sols_physeq.rds")
-load("/home/abthiaw/UCA/Abt_docs/abtStage_M2/data/2022_05_Fonctiomic_taxonomicData.RData")
+metadata <- read_rds("./data/sols_physeq.rds")
+load("./data/2022_05_Fonctiomic_taxonomicData.RData")
 #metadata.phylum <- tax_glom(metadata, "Phylum", NArm = FALSE)
 #Raréfier les données 
 #metadata.phylum.raref <- rarefy_even_depth(metadata.phylum, rngseed = 1, sample.size = 0.95*min(sample_sums(metadata.phylum)),replace=FALSE)
