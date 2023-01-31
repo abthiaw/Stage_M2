@@ -43,13 +43,13 @@ Etape 1:
      
      => Analyse de l'abondances relative des communautes microbiennes
      
-     ==> Etudes de la diversites taxonomiques microbiennes
+     => Etudes de la diversites taxonomiques microbiennes
      
-         - Bases sur les nombres de Hill
+     - Bases sur les nombres de Hill
          
      => Etudes de la structuration des communautes miicrobiennes
      
-         - Analyse d'ordination PCoA et NMDS
+      - Analyse d'ordination PCoA et NMDS
          
      => Etude de la difference d'abondance microbiennes selon les conditions d'etudes
   
@@ -62,3 +62,6 @@ Etape 1:
 ------------------------------
 
 - Execution du script ***2022_05-Fonctiomic_script_taxonomique_analysis.R*** permet d'elaborer des reseaux de co-occurences entre communautes microbiennes
+
+
+
