@@ -17,13 +17,13 @@ micro-organismes apres apport de matiere orgsniques dans les sols.
 
 #### Pour executer les scripts en local 
 
-1. Cloner le repertoire 
+Etape 1. Cloner le repertoire 
 ```
  git clone git@github.com:abthiaw/Stage_M2.git
 ```
  ou télècharger le repertoire
  
- 2. cd Stage_M2
+ Etape 2. cd Stage_M2
 
 - les Données analyses sont des données rarefiées et agglomerées au niveau du Genre au prealable puis stockées au format RData.
 
