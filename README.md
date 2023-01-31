@@ -17,12 +17,15 @@ micro-organismes apres apport de matiere orgsniques dans les sols.
 
 #### Pour executer les scripts en local 
 
+1. Cloner le repertoire 
 ```
-git clone git@github.com:abthiaw/Stage_M2.git
+ git clone git@github.com:abthiaw/Stage_M2.git
 ```
-- ou télècharger le repertoire
+ ou télècharger le repertoire
 
 - les Données analyses sont des données rarefiées et agglomerées au niveau du Genre au prealable puis stockées au format RData.
+
+- Les analyses ont ete exclusivement fait sur Rstudio 2022.12.0 et la version 4.2.2 de R
 
 ----------------------------
 2) DIVERSITES TAXONOMIQUES |
