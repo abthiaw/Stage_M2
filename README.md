@@ -14,8 +14,11 @@ rapport entre ces changements et le recyclage de la matière organique a partir 
 Il se deroule en 2 etapes: Analyse de la diversite taxonomiques microbiennes, Reseau de co-occurences pour évaluer les différences d’interactions entre
 micro-organismes apres apport de matiere orgsniques dans les sols.
 
-# Pour executer les scripts en local 
-- git clone git@github.com:abthiaw/Stage_M2.git
+#### Pour executer les scripts en local 
+
+```bash=
+git clone git@github.com:abthiaw/Stage_M2.git
+```
 - ou telecharger le repertoire
 
 - les Donnees analyses sont des donnees rarefies et agglomerer au niveau du genre au prealable puis stocker au format RData.
