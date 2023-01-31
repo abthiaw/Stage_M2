@@ -1,6 +1,7 @@
 # Stage_M2 : ETUDE METAGENOMIQUE DE LA DIVERSITE TAXONOMIQUE DES COMMUNAUTES MICROBIENNES DU SOLS
-==================================================================================================
-By Alphonse Birane Thiaw
+=================================================================================================
+
+##### By Alphonse Birane Thiaw
 
 
 
@@ -16,18 +17,18 @@ micro-organismes apres apport de matiere orgsniques dans les sols.
 
 #### Pour executer les scripts en local 
 
-```bash=
+```
 git clone git@github.com:abthiaw/Stage_M2.git
 ```
-- ou telecharger le repertoire
+- ou télècharger le repertoire
 
-- les Donnees analyses sont des donnees rarefies et agglomerer au niveau du genre au prealable puis stocker au format RData.
+- les Données analyses sont des données rarefiées et agglomerées au niveau du Genre au prealable puis stockées au format RData.
 
 ----------------------------
 2) DIVERSITES TAXONOMIQUES |
 ----------------------------
 
- - Execution du script <2022_05-Fonctiomic_script_taxonomique_analysis.R> donne les resultats suivants
+ - Execution du script ***2022_05-Fonctiomic_script_taxonomique_analysis.R*** donne les resultats suivants
  
      ==> Courbe d'accumulation evaluant l'effort d'echantillonnage
      
@@ -43,7 +44,7 @@ git clone git@github.com:abthiaw/Stage_M2.git
          
      ==> Etude de la difference d'abondance microbiennes selon les conditions d'etudes
   
- <2022_05-Fonctiomic_script_taxonomique_analysis.rmd> est la version Rmarkdown qui donne en output un rapport de toutes les analyses au format pdf
+ ***2022_05-Fonctiomic_script_taxonomique_analysis.rmd*** est la version Rmarkdown qui donne en output un rapport de toutes les analyses au format pdf
      
          
 
@@ -51,4 +52,4 @@ git clone git@github.com:abthiaw/Stage_M2.git
 2) RESEAUX DE CO-OCCURENCES  |
 ------------------------------
 
-- Execution du script <2022_05-Fonctiomic_script_taxonomique_analysis.R> permet d'elaborer des reseaux de co-occurences entre communautes microbiennes
+- Execution du script ***2022_05-Fonctiomic_script_taxonomique_analysis.R*** permet d'elaborer des reseaux de co-occurences entre communautes microbiennes
