@@ -18,13 +18,12 @@ micro-organismes apres apport de matiere orgsniques dans les sols.
 #### Pour executer les scripts en local 
 
 Etape 1:
-
-    - Cloner le repertoire 
+- Cloner le repertoire 
     
           ```
            git clone git@github.com:abthiaw/Stage_M2.git
           ```
-           ou télècharger le repertoire
+          ou télècharger le repertoire
  
  Etape 2: 
  
